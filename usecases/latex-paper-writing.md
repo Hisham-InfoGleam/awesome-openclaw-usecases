@@ -22,7 +22,7 @@ This workflow turns your agent into a LaTeX writing assistant with instant compi
 docker compose -f docker/docker-compose.dev.yml up
 ```
 
-2. The `latex-compiler` skill is builtin — no installation needed. Prompt OpenClaw:
+2. The `latex-compiler` skill is built-in — no installation needed. Prompt OpenClaw:
 ```text
 Help me write a research paper in LaTeX. Here's my workflow:
 

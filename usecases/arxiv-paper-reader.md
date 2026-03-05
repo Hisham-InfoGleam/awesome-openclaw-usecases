@@ -22,7 +22,7 @@ This workflow turns your agent into a research reading assistant:
 docker compose -f docker/docker-compose.dev.yml up
 ```
 
-2. The `arxiv-reader` skill is builtin — no installation needed. Prompt OpenClaw:
+2. The `arxiv-reader` skill is built-in — no installation needed. Prompt OpenClaw:
 ```text
 I'm researching [topic]. Here's my workflow:
 
